@@ -1,0 +1,73 @@
+body{
+    background: #fafafa;
+}
+.container{
+}
+#imagem{
+    position: absolute;
+    height: 550px;
+    z-index: 4;
+}
+#tela{
+    height: 530px;
+    position: absolute;
+    padding-left: 4em;
+    padding-top: 10px;
+    z-index: 3;
+}
+#imagem2{
+    height: 550px;
+    position: absolute;
+    padding-left: 70px;
+    z-index: 6;
+    padding-top: 15px;
+}
+#tela2{
+    height: 530px;
+    position: absolute;
+    padding-left: 8em;
+    padding-top: 23px;
+    z-index: 5;
+}
+#caixa{
+    height: auto;
+    border: 1px solid rgba(219, 219, 219,1);
+    background: #fff !important;
+}
+#logo{
+    margin-left: 7em;    
+}
+.caixote{
+    border: 1px solid red;
+}
+a.entrarfacebook{
+    color: rgb(56, 81, 133);
+    text-decoration: none;
+}
+.cadastrese{
+    color: rgba(38, 38, 38, 1);
+    font-size: 14px;
+    text-align: center;
+}
+a.cadastro{
+    text-decoration: none;
+    color: #0095f6;
+    font-size: 14px;
+}
+a.rodape{
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(199, 194, 194);
+}
+.rodape{
+    text-align: center;
+    justify-content: center;
+}
+.info{
+    justify-content: end;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+.selecione{
+    padding-left: 40px;
+}

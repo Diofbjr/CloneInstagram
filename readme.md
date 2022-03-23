@@ -1,0 +1,1 @@
+Como foi solicitado a entrega do projeto de bootcamp HTML Web Developer da https://web.dio.me/ foi pedido que nesse projeto fosse desenvolvido a página inicial do Instagram utilizando HTML e CSS, porém tomei a liberdade de encrementar bootstrap no projeto.
